@@ -1,4 +1,4 @@
-# Excel Lambda Function for Search Operations
+# Excel Lambda Function for Filter Operations
 
 ## Overview
 
