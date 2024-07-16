@@ -30,6 +30,12 @@ This repository contains an Excel LAMBDA function designed to perform multi-crit
 - **ErrorText**: The text to be displayed in case of an error.
 - **NoDataText**: The text to be displayed if no data matches the search criteria.
 
+**Syntax**
+  
+```excel
+=FilterLambda(SearchText1; SearchText2; SearchText3; DataTable; ErrorText; NoDataText)
+```
+
 ## How to Use the Function
 
 1. **Define the LAMBDA Function in Excel:**
