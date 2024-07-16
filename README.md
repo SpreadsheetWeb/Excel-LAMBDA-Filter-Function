@@ -33,7 +33,7 @@ This repository contains an Excel LAMBDA function designed to perform multi-crit
 **Syntax**
   
 ```excel
-=FilterLambda(SearchText1; SearchText2; SearchText3; DataTable; ErrorText; NoDataText)
+=FilterLambda(String/Num; String/Num; String/Num; Range/Array; String; String)
 ```
 
 ## How to Use the Function
